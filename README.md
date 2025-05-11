@@ -33,9 +33,9 @@ Projekt obejmuje:
 
 ## 👨‍💻 Autor
 
-**Mateusz Rzeźnikiewicz** oraz **Patryk Ryba** 
-Politechnika Rzeszowska, 2025  
-Opiekun naukowy: dr inż. Marek Kiczek
+**Mateusz Rzeźnikiewicz** oraz **Patryk Ryba**  
+Politechnika Rzeszowska, 2025   
+Opiekun naukowy: dr inż. Marek Kiczek  
 
 ---
 
