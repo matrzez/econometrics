@@ -2,7 +2,7 @@
 
 ## 📌 Opis projektu
 
-Projekt z zakresu **ekonometrii**, którego celem jest analiza liczby lokali mieszkalnych sprzedanych na Podkarpaciu \w latach 2014–2023. Zastosowano metody modelowania liniowego oraz narzędzia statystyczne w celu identyfikacji trendów i budowy modelu prognostycznego.
+Projekt z zakresu **ekonometrii**, którego celem jest analiza liczby lokali mieszkalnych sprzedanych na Podkarpaciu w latach 2014–2023. Zastosowano metody modelowania liniowego oraz narzędzia statystyczne w celu identyfikacji trendów i budowy modelu prognostycznego.
 
 Projekt obejmuje:
 - Pozyskanie i wstępne przetwarzanie danych z Rejestru Cen Nieruchomości
@@ -24,14 +24,15 @@ Projekt obejmuje:
 
 ## 📁 Pliki w repozytorium
 
-- `Ekonometria.pdf` – pełny raport zawierający opis danych, model, wyniki estymacji oraz wnioski.
-- `Kod_źródłowy.R` – notebook z kodem estymującym model ekonometryczny i prezentującym wyniki analizy.
+- `Ekonometria.pdf` – pełny raport zawierający opis danych, model, wyniki estymacji oraz testy statystyczne.
+- `Kod_ekonometria.R` – skrypt w języku R zawierający analizę danych, selekcję zmiennych metodą Hellwiga, estymację modelu regresji oraz testy diagnostyczne i wizualizację prognoz.
+- `dane.txt` – zbiór danych kwartalnych z lat 2014–2023 zawierający liczbę sprzedanych lokali mieszkalnych - zmienną objaśnianą (Y) oraz zmienne objaśniające (X1–X8) pozyskane z Rejestru Cen Nieruchomości.
 
 ---
 
 ## 👨‍💻 Autor
 
-**Mateusz Rzeźnikiewicz**  
+**Mateusz Rzeźnikiewicz** oraz **Patryk Ryba** 
 Politechnika Rzeszowska, 2025  
 Opiekun naukowy: dr inż. Marek Kiczek
 
