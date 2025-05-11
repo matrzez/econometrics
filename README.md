@@ -26,6 +26,7 @@ Projekt obejmuje:
 
 - `Ekonometria.pdf` – pełny raport zawierający opis danych, model, wyniki estymacji oraz testy statystyczne.
 - `Kod_ekonometria.R` – skrypt w języku R zawierający analizę danych, selekcję zmiennych metodą Hellwiga, estymację modelu regresji oraz testy diagnostyczne i wizualizację prognoz.
+- `Dane.xlsx` - arkusz roboczy, zawierający czynności pośredniczące w budowie modelu.
 - `dane.txt` – zbiór danych kwartalnych z lat 2014–2023 zawierający liczbę sprzedanych lokali mieszkalnych - zmienną objaśnianą (Y) oraz zmienne objaśniające (X1–X8) pozyskane z Rejestru Cen Nieruchomości.
 
 ---
