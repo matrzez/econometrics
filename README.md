@@ -2,7 +2,7 @@
 
 ## 📌 Opis projektu
 
-Projekt z zakresu **ekonometrii**, którego celem jest analiza liczby lokali mieszkalnych sprzedanych na Podkarpaciu \\w latach 2014–2023. Zastosowano metody modelowania liniowego oraz narzędzia statystyczne w celu identyfikacji trendów i budowy modelu prognostycznego.
+Projekt z zakresu **ekonometrii**, którego celem jest analiza liczby lokali mieszkalnych sprzedanych na Podkarpaciu \w latach 2014–2023. Zastosowano metody modelowania liniowego oraz narzędzia statystyczne w celu identyfikacji trendów i budowy modelu prognostycznego.
 
 Projekt obejmuje:
 - Pozyskanie i wstępne przetwarzanie danych z Rejestru Cen Nieruchomości
